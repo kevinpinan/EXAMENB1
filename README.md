@@ -8,17 +8,15 @@ html del sitio, creamos un bucle para obtener valores y proceder a ingresar a un
 
 3.-Conectamos con nuestra base de datos mongodb facebook, realizamos un bucle para extraer los datos de la pagina juegosolimpicos y comezamos a guardar nuestros datos en la base de datos. 
 
-4.-No pude ing lo siento
+4.-Procedo a conectar mis bases couchdb y mongodb, paso mis datos troya1 de couchdb a mi base de datos en mongodb llamada troya5. 
 
-5.-Procedo a conectar mis bases couchdb y mongodb, paso mis datos troya1 de couchdb a mi base de datos en mongodb llamada troya5. 
-
-6.-Procedo a conectar mis bases couchdb y mongodb, tomo los datos de mi base de datos en mongodb llamada facebook y 
-creo una nueva base de datos en i couchdb llamada troya6, en el bucle pongo las bases que tengo excepto de la que voy a pasar 
+5.-empiezo a conectar mis bases couchdb y mongodb, tomo los datos de mi base de datos en mongodb llamada facebook y 
+creo una nueva base de datos en i couchdb llamada troya6, en el bucle utilizo las bases que tengo menos de la que voy a pasar 
 los datos, voy leyendo las bases de datos existentes hasta encontrarme con la que necesito facebook, 
 luego hago un list para observar q ue contiene mi base de datos para poder guardar los datos en un documento de tipo json y procedo a guardar mis datos en mi base de datos couchdb llamada troya5 
 
-7.-Procedo a conectar mis bases de datos mongodb y mongodbatlas,procedo a recuperar los datos de mi base de datos couchdb llamada troya1 y guardo los datos en mi base de datos en mongodb atlas llamada troya7.seven 
+6.-Procedo a conectar mis bases de datos mongodb y mongodbatlas,procedo a recuperar los datos de mi base de datos couchdb llamada troya1 y guardo los datos en mi base de datos en mongodb atlas llamada troya7.seven 
 
-8.-Conecto mis bases de datos mongodb y mongodb atlas, tomos los datos de mi base de datos mongo db llamada facebook y utilizo un bucle para abri dicha base de datos y guardar en mi base de datos mongodb atlas 
+7.-Enlazo las bases de datos mongodb y mongodb atlas, tomos los datos de mi base de datos mongo db llamada facebook y los utilizo un bucle para abri la  base de datos y guardar en mi base de datos mongodb atlas 
 
-9 .-Conecto mis bases de datos creo una nueva base de datos y empiezo a buscar los datos para porceder a guardarlo en archivo datos.txt utilizando un dataframe.
+8 .-Conecto mis bases de datos creo una nueva base de datos y empiezo a buscar los datos para porceder a guardarlo en archivo datos.txt utilizando un dataframe.
